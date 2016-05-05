@@ -133,5 +133,6 @@ while True: # While the invisible variable is true, do this stuff:
 		if key[0] in letter[25]:
 			
 			nkey = str(26) + key[1:]
+			
 	print "Message:" + message
 	print "Encrypted with key \"" + key "\""
