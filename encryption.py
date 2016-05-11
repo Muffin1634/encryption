@@ -26,7 +26,7 @@ while True: # While the invisible variable is true, do this stuff:
 	
 		print "Invalid character in key: '" + key + "'" # Tell the script runner that he has an invalid character in his key.
 		print "l22" # for debugging purposes
-		print "                           " + key.index(invalidchars) # Tell the script runner where the problem is. *currenly debugging*
+		print "                           " + key.index(invalidchars) # Tell the script runner where the problem is. *currently debugging*
 		print "l24" # for debugging purposes
 		
 		
